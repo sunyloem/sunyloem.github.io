@@ -28,7 +28,7 @@ twitter_username: sunybethere
 github_username:  sunyloem
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
