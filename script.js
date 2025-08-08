@@ -41,7 +41,7 @@ window.addEventListener('scroll', () => {
 
 // Typing animation for hero subtitle
 const typingText = document.querySelector('.typing-text');
-const words = ['Developer', 'Designer', 'Creator', 'Problem Solver'];
+const words = ['Software Engineer', 'Systems Expert', 'Cloud Specialist', 'Innovator'];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
